@@ -27,7 +27,7 @@ It’s designed for efficiency and scalability in production environments, ensur
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/QuangTest.git
+   git clone https://github.com/ZhangRuRiGuang/QuangTest.git
    ```
 2. **Navigate to the project directory**:
    ```bash

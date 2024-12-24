@@ -1,6 +1,4 @@
-Dưới đây là phiên bản `.md` với định dạng tối ưu và đẹp mắt hơn, sử dụng các chi tiết nổi bật để làm rõ ràng nội dung:
 
-```markdown
 # QuangTest
 
 🚀 **A personal CLI project intended to replace Postman in a production environment.**

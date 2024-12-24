@@ -96,11 +96,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-🎯 **Start building smarter workflows with QuangTest today!**
-```
 
-### Tối ưu hóa:
-1. **Biểu tượng cảm xúc**: Thêm điểm nhấn và làm tài liệu dễ nhìn hơn.
-2. **Phân cách**: Sử dụng các đường kẻ `---` để chia các phần rõ ràng.
-3. **Các tiêu đề phụ có biểu tượng**: Gợi cảm giác hiện đại và chuyên nghiệp.
-4. **Cấu trúc gọn gàng**: Nội dung từng phần được làm nổi bật, dễ dàng tìm kiếm và sử dụng.
